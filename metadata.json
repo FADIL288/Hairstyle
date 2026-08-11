@@ -1,0 +1,7 @@
+{
+  "name": "FaceShape Hair & Styling",
+  "description": "Discover personalized hairstyles and styling product recommendations tailored to your unique face shape, hair texture, and style preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
